@@ -10,5 +10,5 @@ let d = c.apple * 4
 function squareOf(n:number) {
     return n * n
     }
-squareOf(2)
+squareOf(22)
 squareOf(5)
